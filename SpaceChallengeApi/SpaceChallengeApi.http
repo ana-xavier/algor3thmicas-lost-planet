@@ -1,0 +1,6 @@
+@SpaceChallengeApi_HostAddress = http://localhost:5272
+
+GET {{SpaceChallengeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

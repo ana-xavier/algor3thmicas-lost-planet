@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vv1DqzeSu6c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marsi\\Documents\\Hackatona\\algor3thmicas-lost-planet\\SpaceChallengeApi\\SpaceChallengeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marsi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.0\\swashbuckle.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.0\\swashbuckle.aspnetcore.swagger.6.0.0.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.0\\swashbuckle.aspnetcore.swaggergen.6.0.0.nupkg.sha512",
+    "C:\\Users\\marsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.0\\swashbuckle.aspnetcore.swaggerui.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
